@@ -285,3 +285,9 @@ footer {
         height: 150px;
     }
 }
+
+@media (max-width: 370px) {
+    .skills img {
+        width: 100px;
+        height: 100px;
+    }
